@@ -1,0 +1,27 @@
+
+
+{
+"Camshaft - Inclusive of Actuator, Position Sensor, & Seal": "1500",
+"Carburetor": "600",
+"Connecting Rod": "3000",
+"Crankcase - Crankshaft, Position Sensor, Pulley & Seal": "2500",
+"Cylinder Head": "400",
+"Distributor": "150",
+"Engine Overhaul - Control Unit, Temperature Sensor, Cylinder": "3750",
+"Glow Plug": "300",
+"Head Gasket": "2000",
+"IAC Valve": "1500",
+"Idle Air Bypass Kit": "600",
+"Ignition Coil": "400",
+"Ignition Module": "500",
+"MAP Sensor": "200",
+"Mass Airflow Sensor": "400",
+"Oil Cooler, Oil Pan, Oil Pan Gasket. Oil Pressure Sensor, Oil Pump": "2000",
+"Piston | Pins & Rings": "3750",
+"Rear Main Seal": "1000",
+"Supercharger": "2500",
+"Throttle Body": "650",
+"Turbo Hose": "750",
+"Turbocharger": "2000",
+"Vacuum Pump": "400"
+}
